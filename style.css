@@ -1,0 +1,37 @@
+html {
+    margin: 0;
+}
+
+span{
+    display: block;
+    /* color: rgb(241, 232, 237); */
+}
+
+
+
+.canvas{
+    margin: 100px auto 100px;
+    text-align: center;
+    width: 80%;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#gray{
+    background-color: gray;
+}
+#red{
+    background-color:red;
+}
+#blue{
+    background-color:blue;
+}
+#yellow{
+    background-color:yellow;
+}
